@@ -1,4 +1,4 @@
-# SQL Injection Detection Project
+# Adversarial SQLi Detection Using Character-Level CNN and Reinforcement Learning
 
 ## Dataset Download & Processing
 
